@@ -54,14 +54,7 @@ export default {
       type:Array,
       default(){
         return [
-          {
-            count:10,
-            price:2
-          },
-          {
-            count:1,
-            price:20
-          }
+          
         ];
       }
     }
